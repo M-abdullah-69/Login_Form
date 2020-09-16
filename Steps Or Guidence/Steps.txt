@@ -1,0 +1,8 @@
+Firebase log in with facebook steps follow
+https://firebase.google.com/docs/auth/web/facebook-login
+
+Facebook Login setting
+https://developers.facebook.com/apps/635206107135853/fb-login/settings/
+
+Firebase Sign in Setup
+and active or enabled those which want to enable in your page
